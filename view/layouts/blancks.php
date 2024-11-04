@@ -1,0 +1,1 @@
+<?= $CONTENT_FOR_LAYOUT ?>

@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: /attachments
+Disallow: /profil/
+
+Disallow: /demo/
